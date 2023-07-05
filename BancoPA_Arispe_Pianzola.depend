@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1656095912 source:c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\clientes.cpp
+	"clientes.h"
+
+1656340183 c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\clientes.h
+	<iostream>
+	<string.h>
+
+1656378256 source:c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\arbin.cpp
+	"Arbin.h"
+	<iostream>
+	<cassert>
+	<stdlib.h>
+
+1656378256 c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\arbin.h
+	<stdlib.h>
+	"ListaSimple.h"
+	"Arbin.h"
+
+1656378164 c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\listasimple.h
+	"clientes.h"
+
+1656378493 source:c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<cassert>
+	"clientes.h"
+
+1656378702 source:c:\users\puche\desktop\arispe_pianzola_ayda_2daparte\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"listasimple.h"
+	"arbin.h"
+	"clientes.h"
+
+1656378256 source:c:\users\puche\desktop\trabajopracticoayda2daparte\arbin.cpp
+	"Arbin.h"
+	<iostream>
+	<cassert>
+	<stdlib.h>
+
+1656378256 c:\users\puche\desktop\trabajopracticoayda2daparte\arbin.h
+	<stdlib.h>
+	"ListaSimple.h"
+	"Arbin.h"
+
+1656378164 c:\users\puche\desktop\trabajopracticoayda2daparte\listasimple.h
+	"clientes.h"
+
+1656340183 c:\users\puche\desktop\trabajopracticoayda2daparte\clientes.h
+	<iostream>
+	<string.h>
+
+1656095912 source:c:\users\puche\desktop\trabajopracticoayda2daparte\clientes.cpp
+	"clientes.h"
+
+1656378493 source:c:\users\puche\desktop\trabajopracticoayda2daparte\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<cassert>
+	"clientes.h"
+
+1656378702 source:c:\users\puche\desktop\trabajopracticoayda2daparte\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"listasimple.h"
+	"arbin.h"
+	"clientes.h"
+
